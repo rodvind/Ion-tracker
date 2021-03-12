@@ -1,0 +1,8 @@
+:root {
+  --ion-background-color: #f7f6e7;
+  --ion-toolbar-background: var(--ion-color-secondary);
+  --ion-tab-bar-background: var(--ion-color-secondary);
+  --ion-tab-bar-color-selected: var(--ion-color-primary);
+  --ion-toolbar-color: var(--ion-color-primary-contrast);
+  --ion-card-background: #e7e6e1;
+}
